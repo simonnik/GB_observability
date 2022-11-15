@@ -1,0 +1,36 @@
+### >>>>>>> BACKUP START: Kibana interactive setup (2022-08-11T12:36:49.202Z)
+
+### >>>>>>> BACKUP START: Kibana interactive setup (2022-08-11T12:34:15.830Z)
+
+### >>>>>>> BACKUP START: Kibana interactive setup (2022-08-11T06:48:23.497Z)
+
+#server.name: kibana
+#server.host: "0.0.0.0"
+#elasticsearch.hosts: [ "http://elasticsearch:9200" ]
+#xpack.reporting.capture.browser.chromium.disableSandbox: false
+### >>>>>>> BACKUP END: Kibana interactive setup (2022-08-11T06:48:23.497Z)
+
+# This section was automatically generated during setup.
+#server.name: kibana
+#server.host: kibana
+#elasticsearch.hosts: ['http://elasticsearch:9200']
+#xpack.reporting.capture.browser.chromium.disableSandbox: false
+
+
+### >>>>>>> BACKUP END: Kibana interactive setup (2022-08-11T12:34:15.830Z)
+
+# This section was automatically generated during setup.
+#server.name: kibana
+#server.host: kibana
+#elasticsearch.hosts: ['http://elasticsearch:9200']
+#xpack.reporting.capture.browser.chromium.disableSandbox: false
+
+
+### >>>>>>> BACKUP END: Kibana interactive setup (2022-08-11T12:36:49.202Z)
+
+# This section was automatically generated during setup.
+server.name: kibana
+server.host: kibana
+elasticsearch.hosts: ['http://elasticsearch:9200']
+xpack.reporting.capture.browser.chromium.disableSandbox: false
+
